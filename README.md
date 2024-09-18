@@ -17,7 +17,7 @@ This project implements a distributed ledger system using blockchain technology 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/distributed-ledger-typescript.git
+   git clone https://github.com/the-real-jerry-tan/distributed_ledger.git
    cd distributed-ledger-typescript
    ```
 
